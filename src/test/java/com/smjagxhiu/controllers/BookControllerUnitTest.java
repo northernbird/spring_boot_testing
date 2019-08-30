@@ -53,7 +53,7 @@ import com.smjagxhiu.service.BookService;
 	If you want to test all layers chose between 3 and 4.
  *
  */
-@ExtendWith(SpringExtension.class)
+//@ExtendWith(SpringExtension.class)
 @SpringBootTest
 class BookControllerUnitTest {
 

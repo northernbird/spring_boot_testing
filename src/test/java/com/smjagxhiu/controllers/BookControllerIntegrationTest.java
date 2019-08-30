@@ -22,7 +22,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 import com.smjagxhiu.service.BookService;
 
-@ExtendWith(SpringExtension.class)
+//@ExtendWith(SpringExtension.class)
 @SpringBootTest
 class BookControllerIntegrationTest {
 
